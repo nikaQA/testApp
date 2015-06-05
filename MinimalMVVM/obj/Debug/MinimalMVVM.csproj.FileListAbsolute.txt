@@ -1,0 +1,16 @@
+C:\Users\David\Downloads\MVVMSample\MinimalMVVM\bin\Debug\MinimalMVVM.exe
+C:\Users\David\Downloads\MVVMSample\MinimalMVVM\bin\Debug\MinimalMVVM.pdb
+C:\Users\David\Downloads\MVVMSample\MinimalMVVM\obj\Debug\MinimalMVVM.csprojResolveAssemblyReference.cache
+C:\Users\David\Downloads\MVVMSample\MinimalMVVM\obj\Debug\View\ConverterControl.g.cs
+C:\Users\David\Downloads\MVVMSample\MinimalMVVM\obj\Debug\View\ConvertWindow.g.cs
+C:\Users\David\Downloads\MVVMSample\MinimalMVVM\obj\Debug\App.g.cs
+C:\Users\David\Downloads\MVVMSample\MinimalMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\David\Downloads\MVVMSample\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.cache
+C:\Users\David\Downloads\MVVMSample\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.lref
+C:\Users\David\Downloads\MVVMSample\MinimalMVVM\obj\Debug\View\ConverterControl.baml
+C:\Users\David\Downloads\MVVMSample\MinimalMVVM\obj\Debug\View\ConvertWindow.baml
+C:\Users\David\Downloads\MVVMSample\MinimalMVVM\obj\Debug\MinimalMVVM.g.resources
+C:\Users\David\Downloads\MVVMSample\MinimalMVVM\obj\Debug\MinimalMVVM.Properties.Resources.resources
+C:\Users\David\Downloads\MVVMSample\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.GenerateResource.Cache
+C:\Users\David\Downloads\MVVMSample\MinimalMVVM\obj\Debug\MinimalMVVM.exe
+C:\Users\David\Downloads\MVVMSample\MinimalMVVM\obj\Debug\MinimalMVVM.pdb
