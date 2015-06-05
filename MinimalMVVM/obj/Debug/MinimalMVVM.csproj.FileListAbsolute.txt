@@ -14,3 +14,5 @@ C:\Users\David\Downloads\MVVMSample\MinimalMVVM\obj\Debug\MinimalMVVM.Properties
 C:\Users\David\Downloads\MVVMSample\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.GenerateResource.Cache
 C:\Users\David\Downloads\MVVMSample\MinimalMVVM\obj\Debug\MinimalMVVM.exe
 C:\Users\David\Downloads\MVVMSample\MinimalMVVM\obj\Debug\MinimalMVVM.pdb
+C:\Workspace\MVVMSample\MinimalMVVM\obj\Debug\MinimalMVVM.exe
+C:\Workspace\MVVMSample\MinimalMVVM\obj\Debug\MinimalMVVM.pdb

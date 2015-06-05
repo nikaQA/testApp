@@ -5,6 +5,8 @@ namespace MinimalMVVM.ViewModel
 {
     public class DelegateCommand : ICommand
     {
+
+        //comment for CI Test
         private readonly Action _action;
 
         public DelegateCommand(Action action)
